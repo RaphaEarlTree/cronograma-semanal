@@ -51,18 +51,7 @@ horario = {
         ("21:00 - 21:50", "Desenvolvimento de Aplicações para Internet", ""),
     ],
 
-    "sábado": [
-        (
-            "20:10 - 21:00",
-            "Atividades Práticas Interdisciplinares de Extensão I",
-            ""
-        ),
-        (
-            "21:00 - 21:50",
-            "Atividades Práticas Interdisciplinares de Extensão I",
-            ""
-        ),
-    ],
+    "sábado": [],
 
     "domingo": []
 }
