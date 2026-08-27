@@ -28,7 +28,7 @@ horario = {
             "Engenharia de Requisitos, Teste e Qualidade de Software",
             ""
         ),
-        ("21:00 - 21:50", "Coding", "Prof. SAMARA LIMA DE SOUZA"),
+        ("21:00 - 21:50", "Atividades Práticas Interdisciplinares de Extensão I", "Prof. RODRIGO"),
     ],
 
     "quarta": [
