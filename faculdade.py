@@ -40,15 +40,15 @@ horario = {
     "quinta": [
         ("18:30 - 19:20", "Banco de Dados", "Prof. LENA VEIGA E SILVA"),
         ("19:20 - 20:10", "Banco de Dados", "Prof. LENA VEIGA E SILVA"),
-        ("20:10 - 21:00", "Desenvolvimento de Aplicações para Internet", ""),
-        ("21:00 - 21:50", "Desenvolvimento de Aplicações para Internet", ""),
+        ("20:10 - 21:00", "Desenvolvimento de Aplicações para Internet", "Prof. MARCELO HELY DA SILVA OLIVEIRA"),
+        ("21:00 - 21:50", "Desenvolvimento de Aplicações para Internet", "Prof. MARCELO HELY DA SILVA OLIVEIRA"),
     ],
 
     "sexta": [
         ("18:30 - 19:20", "Front-End Frameworks", "Prof. ANDRE AVELINO DA SILVA NETO"),
         ("19:20 - 20:10", "Front-End Frameworks", "Prof. ANDRE AVELINO DA SILVA NETO"),
         ("20:10 - 21:00", "Front-End Frameworks", "Prof. ANDRE AVELINO DA SILVA NETO"),
-        ("21:00 - 21:50", "Desenvolvimento de Aplicações para Internet", ""),
+        ("21:00 - 21:50", "Desenvolvimento de Aplicações para Internet", "Prof. MARCELO HELY DA SILVA OLIVEIRA"),
     ],
 
     "sábado": [],
