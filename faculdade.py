@@ -16,19 +16,19 @@ horario = {
         (
             "18:30 - 19:20",
             "Engenharia de Requisitos, Teste e Qualidade de Software",
-            ""
+            "Prof. RODRIGO SILVA MARQUES"
         ),
         (
             "19:20 - 20:10",
             "Engenharia de Requisitos, Teste e Qualidade de Software",
-            ""
+            "Prof. RODRIGO SILVA MARQUES"
         ),
         (
             "20:10 - 21:00",
             "Engenharia de Requisitos, Teste e Qualidade de Software",
-            ""
+            "Prof. RODRIGO SILVA MARQUES"
         ),
-        ("21:00 - 21:50", "Atividades Práticas Interdisciplinares de Extensão I", "Prof. RODRIGO"),
+        ("21:00 - 21:50", "Atividades Práticas Interdisciplinares de Extensão I", "Prof. RODRIGO SILVA MARQUES"),
     ],
 
     "quarta": [
