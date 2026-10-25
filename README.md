@@ -1,2 +1,2 @@
 # cronograma-semanal
-Diciplinas semanais da faculdade
+Diciplinas do 2 semestres
