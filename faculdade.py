@@ -6,49 +6,48 @@ from datetime import datetime
 
 horario = {
     "segunda": [
-        ("18:30 - 19:20", "Coding", "Prof. SAMARA LIMA DE SOUZA"),
-        ("19:20 - 20:10", "Coding", "Prof. SAMARA LIMA DE SOUZA"),
-        ("20:10 - 21:00", "Coding", "Prof. SAMARA LIMA DE SOUZA"),
-        ("21:00 - 21:50", "Coding", "Prof. SAMARA LIMA DE SOUZA"),
+        ("18:30 - 19:20", "Coding", "Prof. SAMARA"),
+        ("19:20 - 20:10", "Coding", "SAMARA"),
+        ("20:10 - 21:00", "Coding", "SAMARA"),
+        ("21:00 - 21:50", "Coding", "SAMARA"),
     ],
 
     "terça": [
         (
             "18:30 - 19:20",
             "Engenharia de Requisitos, Teste e Qualidade de Software",
-            "Prof. RODRIGO SILVA MARQUES"
+            "Prof. RODRIGO"
         ),
         (
             "19:20 - 20:10",
             "Engenharia de Requisitos, Teste e Qualidade de Software",
-            "Prof. RODRIGO SILVA MARQUES"
+            "Prof. RODRIGO"
         ),
         (
             "20:10 - 21:00",
             "Engenharia de Requisitos, Teste e Qualidade de Software",
-            "Prof. RODRIGO SILVA MARQUES"
+            "Prof. RODRIGO"
         ),
-        ("21:00 - 21:50", "Atividades Práticas Interdisciplinares de Extensão I", "Prof. RODRIGO SILVA MARQUES"),
+        ("21:00 - 21:50", "Atividades Práticas Interdisciplinares de Extensão I", "Prof. RODRIGO"),
     ],
 
     "quarta": [
         ("19:00 - 20:00", "Inteligência Artificial Aplicada", ""),
         ("20:00 - 21:00", "Inteligência Artificial Aplicada", ""),
-        ("21:00 - 22:00", "Inteligência Artificial Aplicada", ""),
     ],
 
     "quinta": [
-        ("18:30 - 19:20", "Banco de Dados", "Prof. LENA VEIGA E SILVA"),
-        ("19:20 - 20:10", "Banco de Dados", "Prof. LENA VEIGA E SILVA"),
-        ("20:10 - 21:00", "Desenvolvimento de Aplicações para Internet", "Prof. MARCELO HELY DA SILVA OLIVEIRA"),
-        ("21:00 - 21:50", "Desenvolvimento de Aplicações para Internet", "Prof. MARCELO HELY DA SILVA OLIVEIRA"),
+        ("18:30 - 19:20", "Banco de Dados", "Prof. LENA"),
+        ("19:20 - 20:10", "Banco de Dados", "Prof. LENA"),
+        ("20:10 - 21:00", "Desenvolvimento de Aplicações para Internet", "Prof. MARCELO"),
+        ("21:00 - 21:50", "Desenvolvimento de Aplicações para Internet", "Prof. MARCELO"),
     ],
 
     "sexta": [
-        ("18:30 - 19:20", "Front-End Frameworks", "Prof. ANDRE AVELINO DA SILVA NETO"),
-        ("19:20 - 20:10", "Front-End Frameworks", "Prof. ANDRE AVELINO DA SILVA NETO"),
-        ("20:10 - 21:00", "Front-End Frameworks", "Prof. ANDRE AVELINO DA SILVA NETO"),
-        ("21:00 - 21:50", "Desenvolvimento de Aplicações para Internet", "Prof. MARCELO HELY DA SILVA OLIVEIRA"),
+        ("18:30 - 19:20", "Front-End Frameworks", "Prof. ANDRE NETO"),
+        ("19:20 - 20:10", "Front-End Frameworks", "Prof. ANDRE NETO"),
+        ("20:10 - 21:00", "Front-End Frameworks", "Prof. ANDRE NETO"),
+        ("21:00 - 21:50", "Desenvolvimento de Aplicações para Internet", "Prof. MARCELO"),
     ],
 
     "sábado": [],
